@@ -1,0 +1,8 @@
+biopython
+numpy
+matplotlib
+pandas
+pyemma
+pyrosetta
+pytraj
+scikit-learn

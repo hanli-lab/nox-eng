@@ -1,0 +1,18 @@
+Run MD NVT 1000frames 400ns
+&cntrl
+    imin = 0,
+    nstlim = 200000000, dt = 0.002,
+    ntx = 5, irest = 1, iwrap = 1,
+    ntpr = 200000, ntwe = 200000, ntwx = 200000, ntwr = 200000,
+    ntb = 1,
+    ntt = 3, gamma_ln = 1,
+    ig = -1,
+    temp0 = 298.0,
+    ntp = 0,
+    ntc = 2, ntf = 2,
+    cut = 8,
+    ioutfm = 1,
+
+    ntr = 0,
+
+/

@@ -1,0 +1,15 @@
+Minimization for the system restraint
+&cntrl
+    imin = 1,
+    maxcyc = 5000, ncyc = 2500,
+    ntx = 1, iwrap = 0,
+    ntpr = 100,  ntwr = 100,
+    ntb = 1,
+    cut = 8,
+    igb = 0,
+    ioutfm = 1,
+
+    ntr = 1, restraint_wt = 20.0
+    restraintmask='!:WAT & !@H=',
+
+/

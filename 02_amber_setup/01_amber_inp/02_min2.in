@@ -1,0 +1,14 @@
+Minimization for the system
+&cntrl
+    imin = 1,
+    maxcyc = 5000, ncyc = 2500,
+    ntx = 1, iwrap = 0,
+    ntpr = 100,  ntwr = 100,
+    ntb = 1,
+    cut = 8,
+    igb = 0,
+    ioutfm = 1,
+
+    ntr = 0,
+
+/
